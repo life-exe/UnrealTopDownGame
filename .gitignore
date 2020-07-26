@@ -1,0 +1,17 @@
+Intermediate/
+Saved/
+Binaries/
+*.db
+*.sdf
+iosdev/
+Build/
+Launch/
+3DModels/
+Content/HandheldARBP
+design/
+IOSPROD/
+android/
+marketing/
+.vs
+
+
